@@ -190,6 +190,7 @@
       "version": "0.4.1",
       "from": "currently-unhandled@>=0.4.1 <0.5.0",
       "resolved": "https://registry.npmjs.org/currently-unhandled/-/currently-unhandled-0.4.1.tgz"
+    },
     "debug": {
       "version": "2.2.0",
       "from": "debug@2.2.0",
@@ -256,6 +257,7 @@
       "version": "1.2.0",
       "from": "decamelize@>=1.1.1 <2.0.0",
       "resolved": "https://registry.npmjs.org/decamelize/-/decamelize-1.2.0.tgz"
+    },
     "ethereumjs-abi": {
       "version": "0.6.4",
       "from": "ethereumjs-abi@0.6.4",
@@ -1161,6 +1163,7 @@
       "version": "2.4.1",
       "from": "lodash._objecttypes@>=2.4.1 <2.5.0",
       "resolved": "https://registry.npmjs.org/lodash._objecttypes/-/lodash._objecttypes-2.4.1.tgz"
+    },
     "isexe": {
       "version": "1.1.2",
       "from": "isexe@1.1.2",
@@ -1549,8 +1552,6 @@
       "version": "2.75.0",
       "from": "request@>=2.45.0 <3.0.0",
       "resolved": "https://registry.npmjs.org/request/-/request-2.75.0.tgz"
-        }
-      }
     },
     "read-pkg": {
       "version": "1.1.0",
